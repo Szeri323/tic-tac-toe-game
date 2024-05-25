@@ -40,11 +40,11 @@
     ```
   - Run the game script:
     ``` bash
-    python tic_tac_toe.py
+    python main.py
     ```
     or if you on linux/mac:
     ``` bash
-    python3 tic_tac_toe.py
+    python3 main.py
     ```
   
   
